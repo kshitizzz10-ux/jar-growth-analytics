@@ -1,6 +1,6 @@
 # Jar App: In-App Engagement & A/B Experimentation Teardown
 
-**Author:** _your name_ | **Tools:** Python (Pandas, SciPy, Matplotlib), Excel, Mixpanel/CleverTap (event design)
+**Author:** Kshitiz | **Tools:** Python (Pandas, SciPy, Matplotlib), Excel, Mixpanel/CleverTap (event design)
 **Type:** External product-level analysis. All data is simulated from stated assumptions. No Jar data was used.
 
 ---
